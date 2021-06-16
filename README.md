@@ -40,3 +40,19 @@ We actually got the Ender 3S, which is basically the Ender 3 that comes pre-asse
 - The mainboard in its stock mounting position is blocked by the bed which makes it extremely annoying to do any rewiring.
 - We moved it to the back and added a raspberry pi with a PoE hat to run octoprint.
 
+# Filament
+We generally stock the following filaments in the makerspace. The colors avaliable may vary
+
+- Generic Chinese PLA (Baby Blue, translucent, black)
+- Anycubic black PLA
+- eSUN Pla+ (Fire engine Red)
+
+| Filament   |      Hotend      |  Bed Temperature |
+|----------|:-------------:|------:|
+| Generic |  200 | 60 |
+| Anycubic |    200   |   60 |
+| eSUN Pla+ | 210-220 |    60 |
+
+These are the temperatures that after much tweaking and calibrating and printing benchys and temperature towers and cubes that I decided to settle at.
+
+There's still some elephant foot but it's minor and anything lower usually has bed adhesion issues because our office is air conditioned
